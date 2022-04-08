@@ -1,0 +1,50 @@
+  #banner_div
+        {
+        	background-image: url("about-banner.jpg");
+        	height:800px;
+        	width: 100%;	
+            background-size: cover;
+            float: left;
+        }
+        .paragraph_Div
+        {
+        	border-style: hidden;
+        	width: 100%;
+        	height: 150px;
+        	padding-left:40px;
+        	clear: both;
+		    float: right;
+		   margin: 14px;
+        }
+        #heading_1
+        {
+        	color: black;
+        	text-align: center;
+        }
+        p.paragraph
+        {
+        	border-style: hidden;
+        	height: 50px;
+        	width: 60%;
+        	font-size: 17px;
+        	color: grey;
+        	font-weight: bold;
+        	float: left;
+        	margin-left: 22%;
+        }
+        p.copy_right
+       	{
+       	    color: white;
+       		border-style:hidden;
+       		font-size: 17px;
+       		text-align: center;
+       }
+       #finish_DIV
+       	{
+       		border-style: hidden;
+       		height: 50px;
+       		width: 100%;
+       		background-color: black ;
+       		float: left;
+       	}
+  }

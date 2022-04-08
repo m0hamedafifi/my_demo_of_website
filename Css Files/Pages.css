@@ -1,0 +1,61 @@
+#pages_DIV
+        {
+          background-color: #141314;
+          border-style: hidden;
+          height: 80px;
+          width: 100%;
+          color: white ;
+        }
+        #page1_ID:link, #page1_ID:visited
+        {
+          color: white;
+          text-decoration: none;
+          text-align :center;
+          margin-left: 45%;
+          display: inline-block;
+        }
+        #page1_ID:hover
+        {
+          color: grey;
+          text-decoration: none;
+        }
+        #page1_ID:focus
+        {
+          color: cyan;
+          text-decoration: none;
+        }
+        #page2_ID:link, #page2_ID:visited
+        {
+          color: white;
+          text-decoration: none;
+          text-align :center;
+          margin:25px;
+          display: inline-block;
+        }
+        #page2_ID:hover
+        {
+          color: grey;
+          text-decoration: none;
+        }
+        #page2_ID:focus
+        {
+          color: cyan;
+          text-decoration: none;
+        }
+        #page3_ID:link, #page3_ID:visited
+        {
+          color: white;
+          text-decoration: none;
+          text-align :center;
+          display: inline-block;
+        }
+        #page3_ID:hover
+        {
+          color: grey;
+          text-decoration: none;
+        }
+        #page3_ID:focus
+        {
+          color: cyan;
+          text-decoration: none;
+        }

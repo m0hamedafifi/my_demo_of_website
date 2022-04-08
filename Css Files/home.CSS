@@ -1,0 +1,72 @@
+        #paragraph1_DIV
+        {
+        	background-image: url("homepage-banner.jpg");
+        	height:700px;
+        	width: 100%;	
+            background-size: cover;
+            float: left;
+        }
+
+        p.paragraph1
+        {
+        	margin-top: 274px; 
+        	font-size: 60px;
+        	font-family: serif;
+        	font-weight: bold;
+        	text-align: center;
+        }
+
+        .paragraph2_DIV
+        {
+        	border-style: hidden;
+        	width: 100%;
+        	height: 150px;
+        	padding-top:  50px;
+        	clear: both;
+		      float: right;
+		      text-align: center;
+        }
+
+        .paragraph2
+        {
+          border-style: hidden;
+          height: 50px;
+          width: 60%;
+          float: left;
+          color: black;
+          display: inline;
+        }
+        img
+        {
+        	height: 120px;
+        	width: 120px;
+        	border-radius: 50%;
+        	size: contain;
+        	float: left;
+        	margin-left:15%;
+        	display: inline;
+        }
+        #heading_1
+        {
+        	color: black;
+        	text-align: center;
+        	font-style: oblique;
+        }
+        
+       #finish_DIV
+        {
+          border-style: hidden;
+          height: 50px;
+          width: 100%;
+          background-color: black ;
+          float: left;
+        }
+
+        .copy_right
+       	{
+       	    color: white;
+       		border-style:hidden;
+       		font-size: 15px;
+       		text-align: center;
+       }
+   
